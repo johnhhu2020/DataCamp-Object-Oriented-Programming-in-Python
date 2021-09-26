@@ -1,3 +1,3 @@
 # DataCamp object-oriented-programming-in-python course
 
-## keeping hungry
+## keep thinking and stay hungry
